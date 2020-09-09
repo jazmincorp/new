@@ -1,0 +1,7 @@
+{
+  "name": "CAMSionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
